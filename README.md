@@ -16,4 +16,5 @@
 ## key components 
 **Web socket**<br>
 **Socket.Io**<br>
-**![Screenshot (42)](https://github.com/user-attachments/assets/010b668b-5421-4685-b2bc-19c094d15a45)**
+**![Screenshot (42)](![1](https://github.com/user-attachments/assets/6faea357-6fe2-4bf8-9a05-60fd7fa013f1)
+)**
