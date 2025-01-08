@@ -1,4 +1,4 @@
-
+ 
 **Name:** V THARUN<br>
 **company:** CODTECH IT SOLUTIONS<br>
 **ID:** CT08ENC<br>
@@ -16,5 +16,4 @@
 ## key components 
 **Web socket**<br>
 **Socket.Io**<br>
-**![Screenshot (42)](![1](https://github.com/user-attachments/assets/6faea357-6fe2-4bf8-9a05-60fd7fa013f1)
-)**
+**![Screenshot (7)](https://github.com/user-attachments/assets/6faea357-6fe2-4bf8-9a05-60fd7fa013f1)**
